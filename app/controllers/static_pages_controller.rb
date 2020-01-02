@@ -10,6 +10,8 @@ class StaticPagesController < ApplicationController
   end
   def about
   end
+  def contact
+  end
 =begin
   test "should get home" do
     get static_pages_home_url
